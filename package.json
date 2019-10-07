@@ -1,0 +1,25 @@
+{
+  "name": "leetcode-casts",
+  "version": "1.0.0",
+  "description": "LeetCode Solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogain123/Leetcode-Casts.git"
+  },
+  "keywords": [
+    "leetcode",
+    "DataStructure",
+    "Algorithm",
+    "Javascript"
+  ],
+  "author": "yogendra saxena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogain123/Leetcode-Casts/issues"
+  },
+  "homepage": "https://github.com/yogain123/Leetcode-Casts#readme"
+}
