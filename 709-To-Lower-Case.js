@@ -22,6 +22,4 @@ Output: "lovely"
  * @param {string} str
  * @return {string}
  */
-var toLowerCase = function(str) {
-    return str.toLowerCase();
-};
+var toLowerCase = str=>str.toLowerCase();
