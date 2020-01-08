@@ -1,5 +1,5 @@
 # Leetcode-Casts
-Leetcode Solutions in JavaScript
+Leetcode Solutions in JavaScript [DEPRECATED] , The Code has been moved to https://github.com/yogain123/leetCode-direct
 
 ----
 
